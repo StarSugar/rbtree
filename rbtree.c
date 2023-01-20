@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
 // This file is copied and edited from linux kernel.
 
 // SPDX-License-Identifier: GPL-2.0-or-later
