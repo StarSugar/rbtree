@@ -1,4 +1,6 @@
-/* SPDX-License-Identifier: GPL-2.0-or-later */
+// SPDX-License-Identifier: GPL-2.0-or-later
+// This file is copied and edited from linux kernel.
+
 #ifndef _LINUX_RBTREE_TYPES_H
 #define _LINUX_RBTREE_TYPES_H
 
