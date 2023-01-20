@@ -1,4 +1,6 @@
-/* SPDX-License-Identifier: GPL-2.0 */
+// SPDX-License-Identifier: GPL-2.0-or-later
+// This file is copied and edited from linux kernel.
+
 #ifndef RBTREE_HELPER_H
 #define RBTREE_HELPER_H
 
