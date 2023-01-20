@@ -1,4 +1,6 @@
-/* SPDX-License-Identifier: GPL-2.0-or-later */
+// SPDX-License-Identifier: GPL-2.0-or-later
+// This file is copied and edited from linux kernel.
+
 /*
   Red Black Trees
   (C) 1999  Andrea Arcangeli <andrea@suse.de>
